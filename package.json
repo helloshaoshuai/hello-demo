@@ -1,0 +1,32 @@
+{
+  "name": "hello-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ajax.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloshaoshuai/hello-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloshaoshuai/hello-demo/issues"
+  },
+  "homepage": "https://github.com/helloshaoshuai/hello-demo#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
